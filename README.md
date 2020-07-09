@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Rksensational/Rksensational** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Undergraduate Mechanical Engineering Student & Full Stack Web Dev also Fresher in machine learning. I am currently working at CII as an Intern on Data Analyst. I love to learn new skills and Looking for a great opportunity in my life and want to work something new.
 
-Here are some ideas to get you started:
+Some of my key skills include: Java, Web-Dev, Data Science , Bootstrap, JavaScript, MATLAB, Python, C, Solidworks, Ansys and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 About my skills:
+- 1. Proficient in engineering design, specializing in aerodynamics, thermodynamics, and project management.
+- 2. Led and managed a many teams for different national level projects.
+- 3. Familiar with manufacturing processes and production concepts.
+- 4. Skilled in agile processes, backend and frontend development as well as open source.
+
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: rksensational01@gmail.com
+- 🎉 My Professional Portfolio: Rksensational.ml
+- ⚡ Some facts: I love singing and writing.
