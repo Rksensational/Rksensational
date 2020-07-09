@@ -7,6 +7,8 @@ Some of my key skills include: Java, Web-Dev, Data Science , Bootstrap, JavaScri
 🏆 About my skills:
 - 💡 Proficient in engineering design, specializing in aerodynamics, thermodynamics, and project management.
 - 🎯 Skilled in agile processes, backend and frontend development as well as open source.
+
+🔔 Check This:
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: rksensational01@gmail.com
 - 🎉 My Professional Portfolio: www.rksensational.ml
