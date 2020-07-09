@@ -4,11 +4,9 @@ I'm an Undergraduate Mechanical Engineering Student & Full Stack Web Dev also Fr
 
 Some of my key skills include: Java, Web-Dev, Data Science , Bootstrap, JavaScript, MATLAB, Python, C, Solidworks, Ansys and Machine Learning.
 
-- 🏆 About my skills:
-- 1. Proficient in engineering design, specializing in aerodynamics, thermodynamics, and project management.
-- 2. Led and managed a many teams for different national level projects.
-- 3. Familiar with manufacturing processes and production concepts.
-- 4. Skilled in agile processes, backend and frontend development as well as open source.
+🏆 About my skills:
+- Proficient in engineering design, specializing in aerodynamics, thermodynamics, and project management.
+- Skilled in agile processes, backend and frontend development as well as open source.
 
 - 💬 Ask me about anything and everything!
 - 📫 How to reach me: rksensational01@gmail.com
